@@ -1,7 +1,7 @@
 
 import org.apache.spark.sql.functions._
 
-object CustomerDimUdfs {
+object customudfs {
 
   private val AgeBucket18_25 = "18-25"
   private val AgeBucket25_30 = "25-30"
